@@ -1,17 +1,138 @@
 ﻿body {
+    background-color:lightgray
 }
 
 
-.navvy
+
+/*Tuscany Village Header*/
+
+.tuscanyMain 
+{
+    background-image: url('../images/tuscany-villas-sant-anna.jpg');
+    margin-top: 0px;
+    padding: 0px;
+    margin-bottom:0px;
+    color:white;
+    font-size: 25px;
+    font-family: lobster;
+}
+
+
+h1.container#tuscany
+{
+     text-align: right;
+    background-color: rgba(232,214,207,0.0);
+}
+
+/*Navigation Bar Settings*/
+
+
+nav#navvy.navbar.navbar-static-top
 {
     background-color:rgb(71,78,93);
+    padding:0px;
+    margin-top:0px;
+    margin-bottom:0px;
+    color:white;
+    font-family:lobster;
+    font-size:25px;
+
+}
+
+
+#jumboclassSettings 
+{
+   
+    padding-left: 0px;
+  
+}
+
+#jumboImage2
+{
+    text-align:right;
+    padding:0px;
     
 }
 
-.navbarColor
+
+#jumboImage3
 {
-    color:white;
+    text-align:left;
+}
+
+
+
+#headerLocations
+{
+    background-color:white;
+}
+
+
+div.page-header
+ {
+    margin-top: 0px;
+    background-color:lightgray;
+    padding-top: 3px;
+    margin-bottom: 0px;
+    text-align:center;
+    color:rgb(71,78,92);
+    font-family:lobster;
+}
+div.jumbotron
+{
+
     font-family:eagle lake;
-    font-size:20px;
+    font-size:12px;
+
+}
+
+.mainSection
+{
+    
+    
+    color:rgb(71,78,93);
+     background-color:white;
+     text-align:left;
+}
+
+.mainSection2
+{
+    background-color:rgb(71,78,93);
+   text-align:left;
+   color:white;
+}
+
+.buttoncolor
+{
+    background-color:white;
+}
+
+.buttoncolor2
+{
+    background-color:rgb(71,78,93);
+}
+
+
+.photos
+{
+    width:280px;
+    height:271px;
+   
+
+}
+
+
+#myCarousel
+{
+    text-align:center;
+    background-color:white;
+}
+
+
+.formClass
+{
+    width:180px;
+    height:180px;
+    text-align:right;
 
 }
